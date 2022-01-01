@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-btns{
+  width:60%;
+  display: flex;
+  justify-content: center;
+}
+.nb{
+  border: none;
+outline: none;
+}
+.login{
+  border:0;
+  background-color: white;
+  padding:10px 30px;
+  color:black;
+  font-weight: bold;
+  font-size: 18px;
+}
+.signup{
+  background-color: black;
+  color: white;
+  border:none;
+  font-weight: bold;
+  font-size: 18px;
+  padding:10px 40px;
+}
